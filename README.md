@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p-droo
-- 👀 I’m interested in Business Inteligence and data analytics 
+- 👀 I’m interested in Business Inteligence and Data Security
 - 🌱 I’m currently learning business analytics 
 - 💞️ I’m looking to collaborate on data analytics 
 - 📫 How to reach me https://www.linkedin.com/in/pedrocardeal
